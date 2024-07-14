@@ -1,0 +1,22 @@
+{
+  "name": "dark-forest-theme",
+  "displayName": "Dark Forest Theme",
+  "description": "Dark green theme for vscode.",
+  "version": "0.0.1",
+  "publisher": "khoo02",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "dark-forest-theme",
+        "uiTheme": "vs-dark",
+        "path": ".dark-forest-theme.json"
+      }
+    ]
+  }
+}
