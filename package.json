@@ -26,7 +26,7 @@
       {
         "label": "dark-forest-theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/dark-forest-theme.json"
+        "path": "./themes/dark-forest-color-theme.json"
       }
     ]
   }
